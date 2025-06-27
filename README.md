@@ -54,3 +54,5 @@ You can also run this on:
 - **Name:** Sangamithra D  
 - **Internship:** Java Programming @ CodeAlpha  
 - **LinkedIn:** https://www.linkedin.com/in/sangamithra-d-8a4092301?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+- **LinkedIn Post:**
+  https://www.linkedin.com/posts/sangamithra-d-8a4092301_codealpha-stocktradingapp-javaprojects-activity-7344388049193086976-CPVm?utm_source=share&utm_medium=member_android&rcm=ACoAAE0Te3wBDPpSmrzX8PUb8qeOgFjMumrLltk
